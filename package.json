@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Block-Lab/round.git"
+    "url": "git+https://github.com/Block-Lab/uPool.git"
   },
   "keywords": [
     "mining",
@@ -19,9 +19,9 @@
   "author": "Block-Lab",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Block-Lab/round/issues"
+    "url": "https://github.com/Block-Lab/uPool/issues"
   },
-  "homepage": "https://github.com/Block-Lab/round#readme",
+  "homepage": "https://github.com/Block-Lab/uPool#readme",
   "devDependencies": {
     "standard": "^12.0.1"
   }
