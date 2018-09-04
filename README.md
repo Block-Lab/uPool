@@ -1,4 +1,11 @@
-[![Build Status](https://travis-ci.com/Block-Lab/round.svg?branch=master)](https://travis-ci.com/Block-Lab/round) [![Greenkeeper badge](https://badges.greenkeeper.io/Block-Lab/round.svg)](https://greenkeeper.io/)
+<h1 align="center">µPool</h1>
 
-# µPool
-Websocket Mining Pool
+<div align="center">
+  <strong>Websocket Mining Pool</strong>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://travis-ci.com/Block-Lab/uPool"><img src="https://travis-ci.com/Block-Lab/uPool.svg?branch=master"></a>
+</div>
