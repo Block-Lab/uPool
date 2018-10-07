@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "lint": "standard --fix",
-    "test": "standard"
+    "test": "mocha && standard"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/Block-Lab/uPool#readme",
   "devDependencies": {
+    "mocha": "^5.2.0",
     "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "ws": "^6.0.0"
   }
 }
